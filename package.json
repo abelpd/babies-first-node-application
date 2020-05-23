@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/abelpd/babies-first-node-application/issues"
   },
-  "homepage": "https://github.com/abelpd/babies-first-node-application#readme"
+  "homepage": "https://github.com/abelpd/babies-first-node-application#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
